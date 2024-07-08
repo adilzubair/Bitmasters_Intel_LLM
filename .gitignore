@@ -1,0 +1,4 @@
+.venv/
+model/
+tiny/
+model_ir/
