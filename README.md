@@ -8,4 +8,4 @@ How to run?
 2. Run convert_to_onnx.py. Model will be converted to onnx format in the folder named tiny.
    
 3. Run onnx_to_IR.py. it converts onnx to openvino intermediate representation.
-4. Run optimized model.py
+4. Run optimized_model.py
