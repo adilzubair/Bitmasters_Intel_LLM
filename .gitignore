@@ -2,3 +2,4 @@
 model/
 tiny/
 model_ir/
+openvino_model/
