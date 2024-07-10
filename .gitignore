@@ -3,3 +3,5 @@ model/
 tiny/
 model_ir/
 openvino_model/
+__pycache__/
+cache/
