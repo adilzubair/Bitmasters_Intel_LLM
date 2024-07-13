@@ -1,0 +1,11 @@
+gradio
+transformers
+optimum
+optimum.intel
+langdetect
+openvino
+torch
+uuid
+typing
+langdetect
+pathlib
