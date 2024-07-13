@@ -13,7 +13,7 @@ This project leverages the TinyLlama model and optimizes it using Intel® OpenVI
 First, clone the repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/Intel_LLM.git
+git clone git@github.com:adilzubair/Bitmasters_Intel_LLM.git
 cd Intel_LLM
 ```
 
