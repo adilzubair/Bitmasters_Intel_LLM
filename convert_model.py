@@ -4,7 +4,7 @@ from optimum.intel import OVQuantizer, OVWeightQuantizationConfig
 import openvino as ov
 from pathlib import Path
 
-def convert_model(model_id="togethercomputer/RedPajama-INCITE-Chat-3B-v1"):
+def convert_model(model_id="TinyLlama/TinyLlama-1.1B-Chat-v1.0"):
     # Download and convert the model
     model = OVModelForCausalLM.from_pretrained(model_id, export=True)
     tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)
