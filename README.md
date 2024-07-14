@@ -14,7 +14,7 @@ First, clone the repository to your local machine:
 
 ```sh
 git clone git@github.com:adilzubair/Bitmasters_Intel_LLM.git
-cd Intel_LLM
+cd Bitmasters_Intel_LLM
 ```
 
 ### Step 2: Install Dependencies
